@@ -232,7 +232,7 @@
     "ISO6392": "bem"
   },
   {
-    "name": "",
+    "name": "Amazigh (latin)",
     "country": "Algeria",
     "IETF": "ber-DZ",
     "ISO31661": "DZ",
@@ -240,7 +240,7 @@
     "ISO6392": "ber"
   },
   {
-    "name": "",
+    "name": "Amazigh (tifinagh)",
     "country": "Morocco",
     "IETF": "ber-MA",
     "ISO31661": "MA",
@@ -1112,7 +1112,7 @@
     "ISO6392": ""
   },
   {
-    "name": "",
+    "name": "Hebrew",
     "country": "Israel",
     "IETF": "iw-IL",
     "ISO31661": "IL",
