@@ -1,0 +1,2050 @@
+[
+  {
+    "name": "Afar",
+    "country": "Djibouti",
+    "IETF": "aa-DJ",
+    "ISO31661": "DJ",
+    "ISO6391": "aa",
+    "ISO6392": ""
+  },
+  {
+    "name": "Afar",
+    "country": "Eritrea",
+    "IETF": "aa-ER",
+    "ISO31661": "ER",
+    "ISO6391": "aa",
+    "ISO6392": ""
+  },
+  {
+    "name": "Afar",
+    "country": "Ethiopia",
+    "IETF": "aa-ET",
+    "ISO31661": "ET",
+    "ISO6391": "aa",
+    "ISO6392": ""
+  },
+  {
+    "name": "Afrikaans",
+    "country": "South Africa",
+    "IETF": "af-ZA",
+    "ISO31661": "ZA",
+    "ISO6391": "af",
+    "ISO6392": ""
+  },
+  {
+    "name": "Amharic",
+    "country": "Ethiopia",
+    "IETF": "am-ET",
+    "ISO31661": "ET",
+    "ISO6391": "am",
+    "ISO6392": ""
+  },
+  {
+    "name": "Aragonese",
+    "country": "Spain",
+    "IETF": "an-ES",
+    "ISO31661": "ES",
+    "ISO6391": "an",
+    "ISO6392": ""
+  },
+  {
+    "name": "Arabic",
+    "country": "United Arab Emirates",
+    "IETF": "ar-AE",
+    "ISO31661": "AE",
+    "ISO6391": "ar",
+    "ISO6392": ""
+  },
+  {
+    "name": "Arabic",
+    "country": "Bahrain",
+    "IETF": "ar-BH",
+    "ISO31661": "BH",
+    "ISO6391": "ar",
+    "ISO6392": ""
+  },
+  {
+    "name": "Arabic",
+    "country": "Algeria",
+    "IETF": "ar-DZ",
+    "ISO31661": "DZ",
+    "ISO6391": "ar",
+    "ISO6392": ""
+  },
+  {
+    "name": "Arabic",
+    "country": "Egypt",
+    "IETF": "ar-EG",
+    "ISO31661": "EG",
+    "ISO6391": "ar",
+    "ISO6392": ""
+  },
+  {
+    "name": "Arabic",
+    "country": "India",
+    "IETF": "ar-IN",
+    "ISO31661": "IN",
+    "ISO6391": "ar",
+    "ISO6392": ""
+  },
+  {
+    "name": "Arabic",
+    "country": "Iraq",
+    "IETF": "ar-IQ",
+    "ISO31661": "IQ",
+    "ISO6391": "ar",
+    "ISO6392": ""
+  },
+  {
+    "name": "Arabic",
+    "country": "Jordan",
+    "IETF": "ar-JO",
+    "ISO31661": "JO",
+    "ISO6391": "ar",
+    "ISO6392": ""
+  },
+  {
+    "name": "Arabic",
+    "country": "Kuwait",
+    "IETF": "ar-KW",
+    "ISO31661": "KW",
+    "ISO6391": "ar",
+    "ISO6392": ""
+  },
+  {
+    "name": "Arabic",
+    "country": "Lebanon",
+    "IETF": "ar-LB",
+    "ISO31661": "LB",
+    "ISO6391": "ar",
+    "ISO6392": ""
+  },
+  {
+    "name": "Arabic",
+    "country": "Libya",
+    "IETF": "ar-LY",
+    "ISO31661": "LY",
+    "ISO6391": "ar",
+    "ISO6392": ""
+  },
+  {
+    "name": "Arabic",
+    "country": "Morocco",
+    "IETF": "ar-MA",
+    "ISO31661": "MA",
+    "ISO6391": "ar",
+    "ISO6392": ""
+  },
+  {
+    "name": "Arabic",
+    "country": "Oman",
+    "IETF": "ar-OM",
+    "ISO31661": "OM",
+    "ISO6391": "ar",
+    "ISO6392": ""
+  },
+  {
+    "name": "Arabic",
+    "country": "Qatar",
+    "IETF": "ar-QA",
+    "ISO31661": "QA",
+    "ISO6391": "ar",
+    "ISO6392": ""
+  },
+  {
+    "name": "Arabic",
+    "country": "Saudi Arabia",
+    "IETF": "ar-SA",
+    "ISO31661": "SA",
+    "ISO6391": "ar",
+    "ISO6392": ""
+  },
+  {
+    "name": "Arabic",
+    "country": "Sudan",
+    "IETF": "ar-SD",
+    "ISO31661": "SD",
+    "ISO6391": "ar",
+    "ISO6392": ""
+  },
+  {
+    "name": "Arabic",
+    "country": "Syrian Arab Republic",
+    "IETF": "ar-SY",
+    "ISO31661": "SY",
+    "ISO6391": "ar",
+    "ISO6392": ""
+  },
+  {
+    "name": "Arabic",
+    "country": "Tunisia",
+    "IETF": "ar-TN",
+    "ISO31661": "TN",
+    "ISO6391": "ar",
+    "ISO6392": ""
+  },
+  {
+    "name": "Arabic",
+    "country": "Yemen",
+    "IETF": "ar-YE",
+    "ISO31661": "YE",
+    "ISO6391": "ar",
+    "ISO6392": ""
+  },
+  {
+    "name": "Azerbaijani",
+    "country": "Azerbaijan",
+    "IETF": "az-AZ",
+    "ISO31661": "AZ",
+    "ISO6391": "az",
+    "ISO6392": ""
+  },
+  {
+    "name": "Assamese",
+    "country": "India",
+    "IETF": "as-IN",
+    "ISO31661": "IN",
+    "ISO6391": "as",
+    "ISO6392": ""
+  },
+  {
+    "name": "Asturian",
+    "country": "Spain",
+    "IETF": "ast-ES",
+    "ISO31661": "ES",
+    "ISO6391": "",
+    "ISO6392": "ast"
+  },
+  {
+    "name": "Belarusian",
+    "country": "Belarus",
+    "IETF": "be-BY",
+    "ISO31661": "BY",
+    "ISO6391": "be",
+    "ISO6392": ""
+  },
+  {
+    "name": "Bemba (Zambia)",
+    "country": "Zambia",
+    "IETF": "bem-ZM",
+    "ISO31661": "ZM",
+    "ISO6391": "",
+    "ISO6392": "bem"
+  },
+  {
+    "name": "",
+    "country": "Algeria",
+    "IETF": "ber-DZ",
+    "ISO31661": "DZ",
+    "ISO6391": "",
+    "ISO6392": "ber"
+  },
+  {
+    "name": "",
+    "country": "Morocco",
+    "IETF": "ber-MA",
+    "ISO31661": "MA",
+    "ISO6391": "",
+    "ISO6392": "ber"
+  },
+  {
+    "name": "Bulgarian",
+    "country": "Bulgaria",
+    "IETF": "bg-BG",
+    "ISO31661": "BG",
+    "ISO6391": "bg",
+    "ISO6392": ""
+  },
+  {
+    "name": "Bhojpuri",
+    "country": "India",
+    "IETF": "bho-IN",
+    "ISO31661": "IN",
+    "ISO6391": "",
+    "ISO6392": "bho"
+  },
+  {
+    "name": "Bengali",
+    "country": "Bangladesh",
+    "IETF": "bn-BD",
+    "ISO31661": "BD",
+    "ISO6391": "bn",
+    "ISO6392": ""
+  },
+  {
+    "name": "Bengali",
+    "country": "India",
+    "IETF": "bn-IN",
+    "ISO31661": "IN",
+    "ISO6391": "bn",
+    "ISO6392": ""
+  },
+  {
+    "name": "Tibetan",
+    "country": "China",
+    "IETF": "bo-CN",
+    "ISO31661": "CN",
+    "ISO6391": "bo",
+    "ISO6392": ""
+  },
+  {
+    "name": "Tibetan",
+    "country": "India",
+    "IETF": "bo-IN",
+    "ISO31661": "IN",
+    "ISO6391": "bo",
+    "ISO6392": ""
+  },
+  {
+    "name": "Breton",
+    "country": "France",
+    "IETF": "br-FR",
+    "ISO31661": "FR",
+    "ISO6391": "br",
+    "ISO6392": ""
+  },
+  {
+    "name": "Bodo (India)",
+    "country": "India",
+    "IETF": "brx-IN",
+    "ISO31661": "IN",
+    "ISO6391": "",
+    "ISO6392": "brx"
+  },
+  {
+    "name": "Bosnian",
+    "country": "Bosnia and Herzegovina",
+    "IETF": "bs-BA",
+    "ISO31661": "BA",
+    "ISO6391": "bs",
+    "ISO6392": ""
+  },
+  {
+    "name": "Bilin",
+    "country": "Eritrea",
+    "IETF": "byn-ER",
+    "ISO31661": "ER",
+    "ISO6391": "",
+    "ISO6392": "byn"
+  },
+  {
+    "name": "Catalan",
+    "country": "Andorra",
+    "IETF": "ca-AD",
+    "ISO31661": "AD",
+    "ISO6391": "ca",
+    "ISO6392": ""
+  },
+  {
+    "name": "Catalan",
+    "country": "Spain",
+    "IETF": "ca-ES",
+    "ISO31661": "ES",
+    "ISO6391": "ca",
+    "ISO6392": ""
+  },
+  {
+    "name": "Catalan",
+    "country": "France",
+    "IETF": "ca-FR",
+    "ISO31661": "FR",
+    "ISO6391": "ca",
+    "ISO6392": ""
+  },
+  {
+    "name": "Catalan",
+    "country": "Italy",
+    "IETF": "ca-IT",
+    "ISO31661": "IT",
+    "ISO6391": "ca",
+    "ISO6392": ""
+  },
+  {
+    "name": "Crimean Tatar",
+    "country": "Ukraine",
+    "IETF": "crh-UA",
+    "ISO31661": "UA",
+    "ISO6391": "",
+    "ISO6392": "crh"
+  },
+  {
+    "name": "Czech",
+    "country": "Czech Republic",
+    "IETF": "cs-CZ",
+    "ISO31661": "CZ",
+    "ISO6391": "cs",
+    "ISO6392": ""
+  },
+  {
+    "name": "Kashubian",
+    "country": "Poland",
+    "IETF": "csb-PL",
+    "ISO31661": "PL",
+    "ISO6391": "",
+    "ISO6392": "csb"
+  },
+  {
+    "name": "Chuvash",
+    "country": "Russian Federation",
+    "IETF": "cv-RU",
+    "ISO31661": "RU",
+    "ISO6391": "cv",
+    "ISO6392": ""
+  },
+  {
+    "name": "Welsh",
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "IETF": "cy-GB",
+    "ISO31661": "GB",
+    "ISO6391": "cy",
+    "ISO6392": ""
+  },
+  {
+    "name": "Danish",
+    "country": "Denmark",
+    "IETF": "da-DK",
+    "ISO31661": "DK",
+    "ISO6391": "da",
+    "ISO6392": ""
+  },
+  {
+    "name": "German",
+    "country": "Austria",
+    "IETF": "de-AT",
+    "ISO31661": "AT",
+    "ISO6391": "de",
+    "ISO6392": ""
+  },
+  {
+    "name": "German",
+    "country": "Belgium",
+    "IETF": "de-BE",
+    "ISO31661": "BE",
+    "ISO6391": "de",
+    "ISO6392": ""
+  },
+  {
+    "name": "German",
+    "country": "Switzerland",
+    "IETF": "de-CH",
+    "ISO31661": "CH",
+    "ISO6391": "de",
+    "ISO6392": ""
+  },
+  {
+    "name": "German",
+    "country": "Germany",
+    "IETF": "de-DE",
+    "ISO31661": "DE",
+    "ISO6391": "de",
+    "ISO6392": ""
+  },
+  {
+    "name": "German",
+    "country": "Liechtenstein",
+    "IETF": "de-LI",
+    "ISO31661": "LI",
+    "ISO6391": "de",
+    "ISO6392": ""
+  },
+  {
+    "name": "German",
+    "country": "Luxembourg",
+    "IETF": "de-LU",
+    "ISO31661": "LU",
+    "ISO6391": "de",
+    "ISO6392": ""
+  },
+  {
+    "name": "Dhivehi",
+    "country": "Maldives",
+    "IETF": "dv-MV",
+    "ISO31661": "MV",
+    "ISO6391": "dv",
+    "ISO6392": ""
+  },
+  {
+    "name": "Dzongkha",
+    "country": "Bhutan",
+    "IETF": "dz-BT",
+    "ISO31661": "BT",
+    "ISO6391": "dz",
+    "ISO6392": ""
+  },
+  {
+    "name": "Modern Greek (1453-)",
+    "country": "Greece",
+    "IETF": "el-GR",
+    "ISO31661": "GR",
+    "ISO6391": "el",
+    "ISO6392": ""
+  },
+  {
+    "name": "Modern Greek (1453-)",
+    "country": "Cyprus",
+    "IETF": "el-CY",
+    "ISO31661": "CY",
+    "ISO6391": "el",
+    "ISO6392": ""
+  },
+  {
+    "name": "English",
+    "country": "Antigua and Barbuda",
+    "IETF": "en-AG",
+    "ISO31661": "AG",
+    "ISO6391": "en",
+    "ISO6392": ""
+  },
+  {
+    "name": "English",
+    "country": "Australia",
+    "IETF": "en-AU",
+    "ISO31661": "AU",
+    "ISO6391": "en",
+    "ISO6392": ""
+  },
+  {
+    "name": "English",
+    "country": "Botswana",
+    "IETF": "en-BW",
+    "ISO31661": "BW",
+    "ISO6391": "en",
+    "ISO6392": ""
+  },
+  {
+    "name": "English",
+    "country": "Canada",
+    "IETF": "en-CA",
+    "ISO31661": "CA",
+    "ISO6391": "en",
+    "ISO6392": ""
+  },
+  {
+    "name": "English",
+    "country": "Denmark",
+    "IETF": "en-DK",
+    "ISO31661": "DK",
+    "ISO6391": "en",
+    "ISO6392": ""
+  },
+  {
+    "name": "English",
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "IETF": "en-GB",
+    "ISO31661": "GB",
+    "ISO6391": "en",
+    "ISO6392": ""
+  },
+  {
+    "name": "English",
+    "country": "Hong Kong",
+    "IETF": "en-HK",
+    "ISO31661": "HK",
+    "ISO6391": "en",
+    "ISO6392": ""
+  },
+  {
+    "name": "English",
+    "country": "Ireland",
+    "IETF": "en-IE",
+    "ISO31661": "IE",
+    "ISO6391": "en",
+    "ISO6392": ""
+  },
+  {
+    "name": "English",
+    "country": "India",
+    "IETF": "en-IN",
+    "ISO31661": "IN",
+    "ISO6391": "en",
+    "ISO6392": ""
+  },
+  {
+    "name": "English",
+    "country": "Nigeria",
+    "IETF": "en-NG",
+    "ISO31661": "NG",
+    "ISO6391": "en",
+    "ISO6392": ""
+  },
+  {
+    "name": "English",
+    "country": "New Zealand",
+    "IETF": "en-NZ",
+    "ISO31661": "NZ",
+    "ISO6391": "en",
+    "ISO6392": ""
+  },
+  {
+    "name": "English",
+    "country": "Philippines",
+    "IETF": "en-PH",
+    "ISO31661": "PH",
+    "ISO6391": "en",
+    "ISO6392": ""
+  },
+  {
+    "name": "English",
+    "country": "Singapore",
+    "IETF": "en-SG",
+    "ISO31661": "SG",
+    "ISO6391": "en",
+    "ISO6392": ""
+  },
+  {
+    "name": "English",
+    "country": "United States of America",
+    "IETF": "en-US",
+    "ISO31661": "US",
+    "ISO6391": "en",
+    "ISO6392": ""
+  },
+  {
+    "name": "English",
+    "country": "South Africa",
+    "IETF": "en-ZA",
+    "ISO31661": "ZA",
+    "ISO6391": "en",
+    "ISO6392": ""
+  },
+  {
+    "name": "English",
+    "country": "Zambia",
+    "IETF": "en-ZM",
+    "ISO31661": "ZM",
+    "ISO6391": "en",
+    "ISO6392": ""
+  },
+  {
+    "name": "English",
+    "country": "Zimbabwe",
+    "IETF": "en-ZW",
+    "ISO31661": "ZW",
+    "ISO6391": "en",
+    "ISO6392": ""
+  },
+  {
+    "name": "Esperanto",
+    "country": "United States of America",
+    "IETF": "eo-US",
+    "ISO31661": "US",
+    "ISO6391": "eo",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "Argentina",
+    "IETF": "es-AR",
+    "ISO31661": "AR",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "Bolivia (Plurinational State of)",
+    "IETF": "es-BO",
+    "ISO31661": "BO",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "Chile",
+    "IETF": "es-CL",
+    "ISO31661": "CL",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "Colombia",
+    "IETF": "es-CO",
+    "ISO31661": "CO",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "Costa Rica",
+    "IETF": "es-CR",
+    "ISO31661": "CR",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "Cuba",
+    "IETF": "es-CU",
+    "ISO31661": "CU",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "Dominican Republic",
+    "IETF": "es-DO",
+    "ISO31661": "DO",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "Ecuador",
+    "IETF": "es-EC",
+    "ISO31661": "EC",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "Spain",
+    "IETF": "es-ES",
+    "ISO31661": "ES",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "Guatemala",
+    "IETF": "es-GT",
+    "ISO31661": "GT",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "Honduras",
+    "IETF": "es-HN",
+    "ISO31661": "HN",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "Mexico",
+    "IETF": "es-MX",
+    "ISO31661": "MX",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "Nicaragua",
+    "IETF": "es-NI",
+    "ISO31661": "NI",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "Panama",
+    "IETF": "es-PA",
+    "ISO31661": "PA",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "Peru",
+    "IETF": "es-PE",
+    "ISO31661": "PE",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "Puerto Rico",
+    "IETF": "es-PR",
+    "ISO31661": "PR",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "Paraguay",
+    "IETF": "es-PY",
+    "ISO31661": "PY",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "El Salvador",
+    "IETF": "es-SV",
+    "ISO31661": "SV",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "United States of America",
+    "IETF": "es-US",
+    "ISO31661": "US",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "Uruguay",
+    "IETF": "es-UY",
+    "ISO31661": "UY",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Spanish",
+    "country": "Venezuela (Bolivarian Republic of)",
+    "IETF": "es-VE",
+    "ISO31661": "VE",
+    "ISO6391": "es",
+    "ISO6392": ""
+  },
+  {
+    "name": "Estonian",
+    "country": "Estonia",
+    "IETF": "et-EE",
+    "ISO31661": "EE",
+    "ISO6391": "et",
+    "ISO6392": ""
+  },
+  {
+    "name": "Basque",
+    "country": "Spain",
+    "IETF": "eu-ES",
+    "ISO31661": "ES",
+    "ISO6391": "eu",
+    "ISO6392": ""
+  },
+  {
+    "name": "Basque",
+    "country": "France",
+    "IETF": "eu-FR",
+    "ISO31661": "FR",
+    "ISO6391": "eu",
+    "ISO6392": ""
+  },
+  {
+    "name": "Persian",
+    "country": "Iran (Islamic Republic of)",
+    "IETF": "fa-IR",
+    "ISO31661": "IR",
+    "ISO6391": "fa",
+    "ISO6392": ""
+  },
+  {
+    "name": "Fulah",
+    "country": "Senegal",
+    "IETF": "ff-SN",
+    "ISO31661": "SN",
+    "ISO6391": "ff",
+    "ISO6392": ""
+  },
+  {
+    "name": "Finnish",
+    "country": "Finland",
+    "IETF": "fi-FI",
+    "ISO31661": "FI",
+    "ISO6391": "fi",
+    "ISO6392": ""
+  },
+  {
+    "name": "Filipino",
+    "country": "Philippines",
+    "IETF": "fil-PH",
+    "ISO31661": "PH",
+    "ISO6391": "",
+    "ISO6392": "fil"
+  },
+  {
+    "name": "Faroese",
+    "country": "Faroe Islands",
+    "IETF": "fo-FO",
+    "ISO31661": "FO",
+    "ISO6391": "fo",
+    "ISO6392": ""
+  },
+  {
+    "name": "French",
+    "country": "Belgium",
+    "IETF": "fr-BE",
+    "ISO31661": "BE",
+    "ISO6391": "fr",
+    "ISO6392": ""
+  },
+  {
+    "name": "French",
+    "country": "Canada",
+    "IETF": "fr-CA",
+    "ISO31661": "CA",
+    "ISO6391": "fr",
+    "ISO6392": ""
+  },
+  {
+    "name": "French",
+    "country": "Switzerland",
+    "IETF": "fr-CH",
+    "ISO31661": "CH",
+    "ISO6391": "fr",
+    "ISO6392": ""
+  },
+  {
+    "name": "French",
+    "country": "France",
+    "IETF": "fr-FR",
+    "ISO31661": "FR",
+    "ISO6391": "fr",
+    "ISO6392": ""
+  },
+  {
+    "name": "French",
+    "country": "Luxembourg",
+    "IETF": "fr-LU",
+    "ISO31661": "LU",
+    "ISO6391": "fr",
+    "ISO6392": ""
+  },
+  {
+    "name": "Friulian",
+    "country": "Italy",
+    "IETF": "fur-IT",
+    "ISO31661": "IT",
+    "ISO6391": "",
+    "ISO6392": "fur"
+  },
+  {
+    "name": "Western Frisian",
+    "country": "Netherlands",
+    "IETF": "fy-NL",
+    "ISO31661": "NL",
+    "ISO6391": "fy",
+    "ISO6392": ""
+  },
+  {
+    "name": "Western Frisian",
+    "country": "Germany",
+    "IETF": "fy-DE",
+    "ISO31661": "DE",
+    "ISO6391": "fy",
+    "ISO6392": ""
+  },
+  {
+    "name": "Irish",
+    "country": "Ireland",
+    "IETF": "ga-IE",
+    "ISO31661": "IE",
+    "ISO6391": "ga",
+    "ISO6392": ""
+  },
+  {
+    "name": "Scottish Gaelic",
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "IETF": "gd-GB",
+    "ISO31661": "GB",
+    "ISO6391": "gd",
+    "ISO6392": ""
+  },
+  {
+    "name": "Geez",
+    "country": "Eritrea",
+    "IETF": "gez-ER",
+    "ISO31661": "ER",
+    "ISO6391": "",
+    "ISO6392": "gez"
+  },
+  {
+    "name": "Geez",
+    "country": "Ethiopia",
+    "IETF": "gez-ET",
+    "ISO31661": "ET",
+    "ISO6391": "",
+    "ISO6392": "gez"
+  },
+  {
+    "name": "Galician",
+    "country": "Spain",
+    "IETF": "gl-ES",
+    "ISO31661": "ES",
+    "ISO6391": "gl",
+    "ISO6392": ""
+  },
+  {
+    "name": "Gujarati",
+    "country": "India",
+    "IETF": "gu-IN",
+    "ISO31661": "IN",
+    "ISO6391": "gu",
+    "ISO6392": ""
+  },
+  {
+    "name": "Manx",
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "IETF": "gv-GB",
+    "ISO31661": "GB",
+    "ISO6391": "gv",
+    "ISO6392": ""
+  },
+  {
+    "name": "Hausa",
+    "country": "Nigeria",
+    "IETF": "ha-NG",
+    "ISO31661": "NG",
+    "ISO6391": "ha",
+    "ISO6392": ""
+  },
+  {
+    "name": "Hebrew",
+    "country": "Israel",
+    "IETF": "he-IL",
+    "ISO31661": "IL",
+    "ISO6391": "he",
+    "ISO6392": ""
+  },
+  {
+    "name": "Hindi",
+    "country": "India",
+    "IETF": "hi-IN",
+    "ISO31661": "IN",
+    "ISO6391": "hi",
+    "ISO6392": ""
+  },
+  {
+    "name": "Chhattisgarhi",
+    "country": "India",
+    "IETF": "hne-IN",
+    "ISO31661": "IN",
+    "ISO6391": "",
+    "ISO6392": "hne"
+  },
+  {
+    "name": "Croatian",
+    "country": "Croatia",
+    "IETF": "hr-HR",
+    "ISO31661": "HR",
+    "ISO6391": "hr",
+    "ISO6392": ""
+  },
+  {
+    "name": "Upper Sorbian",
+    "country": "Germany",
+    "IETF": "hsb-DE",
+    "ISO31661": "DE",
+    "ISO6391": "",
+    "ISO6392": "hsb"
+  },
+  {
+    "name": "Haitian",
+    "country": "Haiti",
+    "IETF": "ht-HT",
+    "ISO31661": "HT",
+    "ISO6391": "ht",
+    "ISO6392": ""
+  },
+  {
+    "name": "Hungarian",
+    "country": "Hungary",
+    "IETF": "hu-HU",
+    "ISO31661": "HU",
+    "ISO6391": "hu",
+    "ISO6392": ""
+  },
+  {
+    "name": "Armenian",
+    "country": "Armenia",
+    "IETF": "hy-AM",
+    "ISO31661": "AM",
+    "ISO6391": "hy",
+    "ISO6392": ""
+  },
+  {
+    "name": "Indonesian",
+    "country": "Indonesia",
+    "IETF": "id-ID",
+    "ISO31661": "ID",
+    "ISO6391": "id",
+    "ISO6392": ""
+  },
+  {
+    "name": "Igbo",
+    "country": "Nigeria",
+    "IETF": "ig-NG",
+    "ISO31661": "NG",
+    "ISO6391": "ig",
+    "ISO6392": ""
+  },
+  {
+    "name": "Inupiaq",
+    "country": "Canada",
+    "IETF": "ik-CA",
+    "ISO31661": "CA",
+    "ISO6391": "ik",
+    "ISO6392": ""
+  },
+  {
+    "name": "Icelandic",
+    "country": "Iceland",
+    "IETF": "is-IS",
+    "ISO31661": "IS",
+    "ISO6391": "is",
+    "ISO6392": ""
+  },
+  {
+    "name": "Italian",
+    "country": "Switzerland",
+    "IETF": "it-CH",
+    "ISO31661": "CH",
+    "ISO6391": "it",
+    "ISO6392": ""
+  },
+  {
+    "name": "Italian",
+    "country": "Italy",
+    "IETF": "it-IT",
+    "ISO31661": "IT",
+    "ISO6391": "it",
+    "ISO6392": ""
+  },
+  {
+    "name": "Inuktitut",
+    "country": "Canada",
+    "IETF": "iu-CA",
+    "ISO31661": "CA",
+    "ISO6391": "iu",
+    "ISO6392": ""
+  },
+  {
+    "name": "",
+    "country": "Israel",
+    "IETF": "iw-IL",
+    "ISO31661": "IL",
+    "ISO6391": "iw",
+    "ISO6392": ""
+  },
+  {
+    "name": "Japanese",
+    "country": "Japan",
+    "IETF": "ja-JP",
+    "ISO31661": "JP",
+    "ISO6391": "ja",
+    "ISO6392": ""
+  },
+  {
+    "name": "Georgian",
+    "country": "Georgia",
+    "IETF": "ka-GE",
+    "ISO31661": "GE",
+    "ISO6391": "ka",
+    "ISO6392": ""
+  },
+  {
+    "name": "Kazakh",
+    "country": "Kazakhstan",
+    "IETF": "kk-KZ",
+    "ISO31661": "KZ",
+    "ISO6391": "kk",
+    "ISO6392": ""
+  },
+  {
+    "name": "Kalaallisut",
+    "country": "Greenland",
+    "IETF": "kl-GL",
+    "ISO31661": "GL",
+    "ISO6391": "kl",
+    "ISO6392": ""
+  },
+  {
+    "name": "Central Khmer",
+    "country": "Cambodia",
+    "IETF": "km-KH",
+    "ISO31661": "KH",
+    "ISO6391": "km",
+    "ISO6392": ""
+  },
+  {
+    "name": "Kannada",
+    "country": "India",
+    "IETF": "kn-IN",
+    "ISO31661": "IN",
+    "ISO6391": "kn",
+    "ISO6392": ""
+  },
+  {
+    "name": "Korean",
+    "country": "Korea (Republic of)",
+    "IETF": "ko-KR",
+    "ISO31661": "KR",
+    "ISO6391": "ko",
+    "ISO6392": ""
+  },
+  {
+    "name": "Konkani (macrolanguage)",
+    "country": "India",
+    "IETF": "kok-IN",
+    "ISO31661": "IN",
+    "ISO6391": "",
+    "ISO6392": "kok"
+  },
+  {
+    "name": "Kashmiri",
+    "country": "India",
+    "IETF": "ks-IN",
+    "ISO31661": "IN",
+    "ISO6391": "ks",
+    "ISO6392": ""
+  },
+  {
+    "name": "Kurdish",
+    "country": "Turkey",
+    "IETF": "ku-TR",
+    "ISO31661": "TR",
+    "ISO6391": "ku",
+    "ISO6392": ""
+  },
+  {
+    "name": "Cornish",
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "IETF": "kw-GB",
+    "ISO31661": "GB",
+    "ISO6391": "kw",
+    "ISO6392": ""
+  },
+  {
+    "name": "Kirghiz",
+    "country": "Kyrgyzstan",
+    "IETF": "ky-KG",
+    "ISO31661": "KG",
+    "ISO6391": "ky",
+    "ISO6392": ""
+  },
+  {
+    "name": "Luxembourgish",
+    "country": "Luxembourg",
+    "IETF": "lb-LU",
+    "ISO31661": "LU",
+    "ISO6391": "lb",
+    "ISO6392": ""
+  },
+  {
+    "name": "Ganda",
+    "country": "Uganda",
+    "IETF": "lg-UG",
+    "ISO31661": "UG",
+    "ISO6391": "lg",
+    "ISO6392": ""
+  },
+  {
+    "name": "Limburgan",
+    "country": "Belgium",
+    "IETF": "li-BE",
+    "ISO31661": "BE",
+    "ISO6391": "li",
+    "ISO6392": ""
+  },
+  {
+    "name": "Limburgan",
+    "country": "Netherlands",
+    "IETF": "li-NL",
+    "ISO31661": "NL",
+    "ISO6391": "li",
+    "ISO6392": ""
+  },
+  {
+    "name": "Ligurian",
+    "country": "Italy",
+    "IETF": "lij-IT",
+    "ISO31661": "IT",
+    "ISO6391": "",
+    "ISO6392": "lij"
+  },
+  {
+    "name": "Lao",
+    "country": "Lao People's Democratic Republic",
+    "IETF": "lo-LA",
+    "ISO31661": "LA",
+    "ISO6391": "lo",
+    "ISO6392": ""
+  },
+  {
+    "name": "Lithuanian",
+    "country": "Lithuania",
+    "IETF": "lt-LT",
+    "ISO31661": "LT",
+    "ISO6391": "lt",
+    "ISO6392": ""
+  },
+  {
+    "name": "Latvian",
+    "country": "Latvia",
+    "IETF": "lv-LV",
+    "ISO31661": "LV",
+    "ISO6391": "lv",
+    "ISO6392": ""
+  },
+  {
+    "name": "Maithili",
+    "country": "India",
+    "IETF": "mai-IN",
+    "ISO31661": "IN",
+    "ISO6391": "",
+    "ISO6392": "mai"
+  },
+  {
+    "name": "Malagasy",
+    "country": "Madagascar",
+    "IETF": "mg-MG",
+    "ISO31661": "MG",
+    "ISO6391": "mg",
+    "ISO6392": ""
+  },
+  {
+    "name": "Eastern Mari",
+    "country": "Russian Federation",
+    "IETF": "mhr-RU",
+    "ISO31661": "RU",
+    "ISO6391": "",
+    "ISO6392": "mhr"
+  },
+  {
+    "name": "Maori",
+    "country": "New Zealand",
+    "IETF": "mi-NZ",
+    "ISO31661": "NZ",
+    "ISO6391": "mi",
+    "ISO6392": ""
+  },
+  {
+    "name": "Macedonian",
+    "country": "Macedonia (the former Yugoslav Republic of)",
+    "IETF": "mk-MK",
+    "ISO31661": "MK",
+    "ISO6391": "mk",
+    "ISO6392": ""
+  },
+  {
+    "name": "Malayalam",
+    "country": "India",
+    "IETF": "ml-IN",
+    "ISO31661": "IN",
+    "ISO6391": "ml",
+    "ISO6392": ""
+  },
+  {
+    "name": "Mongolian",
+    "country": "Mongolia",
+    "IETF": "mn-MN",
+    "ISO31661": "MN",
+    "ISO6391": "mn",
+    "ISO6392": ""
+  },
+  {
+    "name": "Marathi",
+    "country": "India",
+    "IETF": "mr-IN",
+    "ISO31661": "IN",
+    "ISO6391": "mr",
+    "ISO6392": ""
+  },
+  {
+    "name": "Malay (macrolanguage)",
+    "country": "Malaysia",
+    "IETF": "ms-MY",
+    "ISO31661": "MY",
+    "ISO6391": "ms",
+    "ISO6392": ""
+  },
+  {
+    "name": "Maltese",
+    "country": "Malta",
+    "IETF": "mt-MT",
+    "ISO31661": "MT",
+    "ISO6391": "mt",
+    "ISO6392": ""
+  },
+  {
+    "name": "Burmese",
+    "country": "Myanmar",
+    "IETF": "my-MM",
+    "ISO31661": "MM",
+    "ISO6391": "my",
+    "ISO6392": ""
+  },
+  {
+    "name": "Norwegian Bokm\u00e5l",
+    "country": "Norway",
+    "IETF": "nb-NO",
+    "ISO31661": "NO",
+    "ISO6391": "nb",
+    "ISO6392": ""
+  },
+  {
+    "name": "Low German",
+    "country": "Germany",
+    "IETF": "nds-DE",
+    "ISO31661": "DE",
+    "ISO6391": "",
+    "ISO6392": "nds"
+  },
+  {
+    "name": "Low German",
+    "country": "Netherlands",
+    "IETF": "nds-NL",
+    "ISO31661": "NL",
+    "ISO6391": "",
+    "ISO6392": "nds"
+  },
+  {
+    "name": "Nepali (macrolanguage)",
+    "country": "Nepal",
+    "IETF": "ne-NP",
+    "ISO31661": "NP",
+    "ISO6391": "ne",
+    "ISO6392": ""
+  },
+  {
+    "name": "Dutch",
+    "country": "Aruba",
+    "IETF": "nl-AW",
+    "ISO31661": "AW",
+    "ISO6391": "nl",
+    "ISO6392": ""
+  },
+  {
+    "name": "Dutch",
+    "country": "Belgium",
+    "IETF": "nl-BE",
+    "ISO31661": "BE",
+    "ISO6391": "nl",
+    "ISO6392": ""
+  },
+  {
+    "name": "Dutch",
+    "country": "Netherlands",
+    "IETF": "nl-NL",
+    "ISO31661": "NL",
+    "ISO6391": "nl",
+    "ISO6392": ""
+  },
+  {
+    "name": "Norwegian Nynorsk",
+    "country": "Norway",
+    "IETF": "nn-NO",
+    "ISO31661": "NO",
+    "ISO6391": "nn",
+    "ISO6392": ""
+  },
+  {
+    "name": "South Ndebele",
+    "country": "South Africa",
+    "IETF": "nr-ZA",
+    "ISO31661": "ZA",
+    "ISO6391": "nr",
+    "ISO6392": ""
+  },
+  {
+    "name": "Pedi",
+    "country": "South Africa",
+    "IETF": "nso-ZA",
+    "ISO31661": "ZA",
+    "ISO6391": "",
+    "ISO6392": "nso"
+  },
+  {
+    "name": "Occitan (post 1500)",
+    "country": "France",
+    "IETF": "oc-FR",
+    "ISO31661": "FR",
+    "ISO6391": "oc",
+    "ISO6392": ""
+  },
+  {
+    "name": "Oromo",
+    "country": "Ethiopia",
+    "IETF": "om-ET",
+    "ISO31661": "ET",
+    "ISO6391": "om",
+    "ISO6392": ""
+  },
+  {
+    "name": "Oromo",
+    "country": "Kenya",
+    "IETF": "om-KE",
+    "ISO31661": "KE",
+    "ISO6391": "om",
+    "ISO6392": ""
+  },
+  {
+    "name": "Oriya (macrolanguage)",
+    "country": "India",
+    "IETF": "or-IN",
+    "ISO31661": "IN",
+    "ISO6391": "or",
+    "ISO6392": ""
+  },
+  {
+    "name": "Ossetian",
+    "country": "Russian Federation",
+    "IETF": "os-RU",
+    "ISO31661": "RU",
+    "ISO6391": "os",
+    "ISO6392": ""
+  },
+  {
+    "name": "Panjabi",
+    "country": "India",
+    "IETF": "pa-IN",
+    "ISO31661": "IN",
+    "ISO6391": "pa",
+    "ISO6392": ""
+  },
+  {
+    "name": "Panjabi",
+    "country": "Pakistan",
+    "IETF": "pa-PK",
+    "ISO31661": "PK",
+    "ISO6391": "pa",
+    "ISO6392": ""
+  },
+  {
+    "name": "Polish",
+    "country": "Poland",
+    "IETF": "pl-PL",
+    "ISO31661": "PL",
+    "ISO6391": "pl",
+    "ISO6392": ""
+  },
+  {
+    "name": "Pushto",
+    "country": "Afghanistan",
+    "IETF": "ps-AF",
+    "ISO31661": "AF",
+    "ISO6391": "ps",
+    "ISO6392": ""
+  },
+  {
+    "name": "Portuguese",
+    "country": "Brazil",
+    "IETF": "pt-BR",
+    "ISO31661": "BR",
+    "ISO6391": "pt",
+    "ISO6392": ""
+  },
+  {
+    "name": "Portuguese",
+    "country": "Portugal",
+    "IETF": "pt-PT",
+    "ISO31661": "PT",
+    "ISO6391": "pt",
+    "ISO6392": ""
+  },
+  {
+    "name": "Romanian",
+    "country": "Romania",
+    "IETF": "ro-RO",
+    "ISO31661": "RO",
+    "ISO6391": "ro",
+    "ISO6392": ""
+  },
+  {
+    "name": "Russian",
+    "country": "Russian Federation",
+    "IETF": "ru-RU",
+    "ISO31661": "RU",
+    "ISO6391": "ru",
+    "ISO6392": ""
+  },
+  {
+    "name": "Russian",
+    "country": "Ukraine",
+    "IETF": "ru-UA",
+    "ISO31661": "UA",
+    "ISO6391": "ru",
+    "ISO6392": ""
+  },
+  {
+    "name": "Kinyarwanda",
+    "country": "Rwanda",
+    "IETF": "rw-RW",
+    "ISO31661": "RW",
+    "ISO6391": "rw",
+    "ISO6392": ""
+  },
+  {
+    "name": "Sanskrit",
+    "country": "India",
+    "IETF": "sa-IN",
+    "ISO31661": "IN",
+    "ISO6391": "sa",
+    "ISO6392": ""
+  },
+  {
+    "name": "Sardinian",
+    "country": "Italy",
+    "IETF": "sc-IT",
+    "ISO31661": "IT",
+    "ISO6391": "sc",
+    "ISO6392": ""
+  },
+  {
+    "name": "Sindhi",
+    "country": "India",
+    "IETF": "sd-IN",
+    "ISO31661": "IN",
+    "ISO6391": "sd",
+    "ISO6392": ""
+  },
+  {
+    "name": "Sindhi",
+    "country": "Pakistan",
+    "IETF": "sd-PK",
+    "ISO31661": "PK",
+    "ISO6391": "sd",
+    "ISO6392": ""
+  },
+  {
+    "name": "Northern Sami",
+    "country": "Norway",
+    "IETF": "se-NO",
+    "ISO31661": "NO",
+    "ISO6391": "se",
+    "ISO6392": ""
+  },
+  {
+    "name": "Shuswap",
+    "country": "Canada",
+    "IETF": "shs-CA",
+    "ISO31661": "CA",
+    "ISO6391": "",
+    "ISO6392": "shs"
+  },
+  {
+    "name": "Sinhala",
+    "country": "Sri Lanka",
+    "IETF": "si-LK",
+    "ISO31661": "LK",
+    "ISO6391": "si",
+    "ISO6392": ""
+  },
+  {
+    "name": "Sidamo",
+    "country": "Ethiopia",
+    "IETF": "sid-ET",
+    "ISO31661": "ET",
+    "ISO6391": "",
+    "ISO6392": "sid"
+  },
+  {
+    "name": "Slovak",
+    "country": "Slovakia",
+    "IETF": "sk-SK",
+    "ISO31661": "SK",
+    "ISO6391": "sk",
+    "ISO6392": ""
+  },
+  {
+    "name": "Slovenian",
+    "country": "Slovenia",
+    "IETF": "sl-SI",
+    "ISO31661": "SI",
+    "ISO6391": "sl",
+    "ISO6392": ""
+  },
+  {
+    "name": "Somali",
+    "country": "Djibouti",
+    "IETF": "so-DJ",
+    "ISO31661": "DJ",
+    "ISO6391": "so",
+    "ISO6392": ""
+  },
+  {
+    "name": "Somali",
+    "country": "Ethiopia",
+    "IETF": "so-ET",
+    "ISO31661": "ET",
+    "ISO6391": "so",
+    "ISO6392": ""
+  },
+  {
+    "name": "Somali",
+    "country": "Kenya",
+    "IETF": "so-KE",
+    "ISO31661": "KE",
+    "ISO6391": "so",
+    "ISO6392": ""
+  },
+  {
+    "name": "Somali",
+    "country": "Somalia",
+    "IETF": "so-SO",
+    "ISO31661": "SO",
+    "ISO6391": "so",
+    "ISO6392": ""
+  },
+  {
+    "name": "Albanian",
+    "country": "Albania",
+    "IETF": "sq-AL",
+    "ISO31661": "AL",
+    "ISO6391": "sq",
+    "ISO6392": ""
+  },
+  {
+    "name": "Albanian",
+    "country": "Macedonia (the former Yugoslav Republic of)",
+    "IETF": "sq-MK",
+    "ISO31661": "MK",
+    "ISO6391": "sq",
+    "ISO6392": ""
+  },
+  {
+    "name": "Serbian",
+    "country": "Montenegro",
+    "IETF": "sr-ME",
+    "ISO31661": "ME",
+    "ISO6391": "sr",
+    "ISO6392": ""
+  },
+  {
+    "name": "Serbian",
+    "country": "Serbia",
+    "IETF": "sr-RS",
+    "ISO31661": "RS",
+    "ISO6391": "sr",
+    "ISO6392": ""
+  },
+  {
+    "name": "Swati",
+    "country": "South Africa",
+    "IETF": "ss-ZA",
+    "ISO31661": "ZA",
+    "ISO6391": "ss",
+    "ISO6392": ""
+  },
+  {
+    "name": "Southern Sotho",
+    "country": "South Africa",
+    "IETF": "st-ZA",
+    "ISO31661": "ZA",
+    "ISO6391": "st",
+    "ISO6392": ""
+  },
+  {
+    "name": "Swedish",
+    "country": "Finland",
+    "IETF": "sv-FI",
+    "ISO31661": "FI",
+    "ISO6391": "sv",
+    "ISO6392": ""
+  },
+  {
+    "name": "Swedish",
+    "country": "Sweden",
+    "IETF": "sv-SE",
+    "ISO31661": "SE",
+    "ISO6391": "sv",
+    "ISO6392": ""
+  },
+  {
+    "name": "Swahili (macrolanguage)",
+    "country": "Kenya",
+    "IETF": "sw-KE",
+    "ISO31661": "KE",
+    "ISO6391": "sw",
+    "ISO6392": ""
+  },
+  {
+    "name": "Swahili (macrolanguage)",
+    "country": "Tanzania, United Republic of",
+    "IETF": "sw-TZ",
+    "ISO31661": "TZ",
+    "ISO6391": "sw",
+    "ISO6392": ""
+  },
+  {
+    "name": "Tamil",
+    "country": "India",
+    "IETF": "ta-IN",
+    "ISO31661": "IN",
+    "ISO6391": "ta",
+    "ISO6392": ""
+  },
+  {
+    "name": "Tamil",
+    "country": "Sri Lanka",
+    "IETF": "ta-LK",
+    "ISO31661": "LK",
+    "ISO6391": "ta",
+    "ISO6392": ""
+  },
+  {
+    "name": "Telugu",
+    "country": "India",
+    "IETF": "te-IN",
+    "ISO31661": "IN",
+    "ISO6391": "te",
+    "ISO6392": ""
+  },
+  {
+    "name": "Tajik",
+    "country": "Tajikistan",
+    "IETF": "tg-TJ",
+    "ISO31661": "TJ",
+    "ISO6391": "tg",
+    "ISO6392": ""
+  },
+  {
+    "name": "Thai",
+    "country": "Thailand",
+    "IETF": "th-TH",
+    "ISO31661": "TH",
+    "ISO6391": "th",
+    "ISO6392": ""
+  },
+  {
+    "name": "Tigrinya",
+    "country": "Eritrea",
+    "IETF": "ti-ER",
+    "ISO31661": "ER",
+    "ISO6391": "ti",
+    "ISO6392": ""
+  },
+  {
+    "name": "Tigrinya",
+    "country": "Ethiopia",
+    "IETF": "ti-ET",
+    "ISO31661": "ET",
+    "ISO6391": "ti",
+    "ISO6392": ""
+  },
+  {
+    "name": "Tigre",
+    "country": "Eritrea",
+    "IETF": "tig-ER",
+    "ISO31661": "ER",
+    "ISO6391": "",
+    "ISO6392": "tig"
+  },
+  {
+    "name": "Turkmen",
+    "country": "Turkmenistan",
+    "IETF": "tk-TM",
+    "ISO31661": "TM",
+    "ISO6391": "tk",
+    "ISO6392": ""
+  },
+  {
+    "name": "Tagalog",
+    "country": "Philippines",
+    "IETF": "tl-PH",
+    "ISO31661": "PH",
+    "ISO6391": "tl",
+    "ISO6392": ""
+  },
+  {
+    "name": "Tswana",
+    "country": "South Africa",
+    "IETF": "tn-ZA",
+    "ISO31661": "ZA",
+    "ISO6391": "tn",
+    "ISO6392": ""
+  },
+  {
+    "name": "Turkish",
+    "country": "Cyprus",
+    "IETF": "tr-CY",
+    "ISO31661": "CY",
+    "ISO6391": "tr",
+    "ISO6392": ""
+  },
+  {
+    "name": "Turkish",
+    "country": "Turkey",
+    "IETF": "tr-TR",
+    "ISO31661": "TR",
+    "ISO6391": "tr",
+    "ISO6392": ""
+  },
+  {
+    "name": "Tsonga",
+    "country": "South Africa",
+    "IETF": "ts-ZA",
+    "ISO31661": "ZA",
+    "ISO6391": "ts",
+    "ISO6392": ""
+  },
+  {
+    "name": "Tatar",
+    "country": "Russian Federation",
+    "IETF": "tt-RU",
+    "ISO31661": "RU",
+    "ISO6391": "tt",
+    "ISO6392": ""
+  },
+  {
+    "name": "Uighur",
+    "country": "China",
+    "IETF": "ug-CN",
+    "ISO31661": "CN",
+    "ISO6391": "ug",
+    "ISO6392": ""
+  },
+  {
+    "name": "Ukrainian",
+    "country": "Ukraine",
+    "IETF": "uk-UA",
+    "ISO31661": "UA",
+    "ISO6391": "uk",
+    "ISO6392": ""
+  },
+  {
+    "name": "Unami",
+    "country": "United States of America",
+    "IETF": "unm-US",
+    "ISO31661": "US",
+    "ISO6391": "",
+    "ISO6392": "unm"
+  },
+  {
+    "name": "Urdu",
+    "country": "India",
+    "IETF": "ur-IN",
+    "ISO31661": "IN",
+    "ISO6391": "ur",
+    "ISO6392": ""
+  },
+  {
+    "name": "Urdu",
+    "country": "Pakistan",
+    "IETF": "ur-PK",
+    "ISO31661": "PK",
+    "ISO6391": "ur",
+    "ISO6392": ""
+  },
+  {
+    "name": "Uzbek",
+    "country": "Uzbekistan",
+    "IETF": "uz-UZ",
+    "ISO31661": "UZ",
+    "ISO6391": "uz",
+    "ISO6392": ""
+  },
+  {
+    "name": "Venda",
+    "country": "South Africa",
+    "IETF": "ve-ZA",
+    "ISO31661": "ZA",
+    "ISO6391": "ve",
+    "ISO6392": ""
+  },
+  {
+    "name": "Vietnamese",
+    "country": "Viet Nam",
+    "IETF": "vi-VN",
+    "ISO31661": "VN",
+    "ISO6391": "vi",
+    "ISO6392": ""
+  },
+  {
+    "name": "Walloon",
+    "country": "Belgium",
+    "IETF": "wa-BE",
+    "ISO31661": "BE",
+    "ISO6391": "wa",
+    "ISO6392": ""
+  },
+  {
+    "name": "Walser",
+    "country": "Switzerland",
+    "IETF": "wae-CH",
+    "ISO31661": "CH",
+    "ISO6391": "",
+    "ISO6392": "wae"
+  },
+  {
+    "name": "Wolaytta",
+    "country": "Ethiopia",
+    "IETF": "wal-ET",
+    "ISO31661": "ET",
+    "ISO6391": "",
+    "ISO6392": "wal"
+  },
+  {
+    "name": "Wolof",
+    "country": "Senegal",
+    "IETF": "wo-SN",
+    "ISO31661": "SN",
+    "ISO6391": "wo",
+    "ISO6392": ""
+  },
+  {
+    "name": "Xhosa",
+    "country": "South Africa",
+    "IETF": "xh-ZA",
+    "ISO31661": "ZA",
+    "ISO6391": "xh",
+    "ISO6392": ""
+  },
+  {
+    "name": "Yiddish",
+    "country": "United States of America",
+    "IETF": "yi-US",
+    "ISO31661": "US",
+    "ISO6391": "yi",
+    "ISO6392": ""
+  },
+  {
+    "name": "Yoruba",
+    "country": "Nigeria",
+    "IETF": "yo-NG",
+    "ISO31661": "NG",
+    "ISO6391": "yo",
+    "ISO6392": ""
+  },
+  {
+    "name": "Yue Chinese",
+    "country": "Hong Kong",
+    "IETF": "yue-HK",
+    "ISO31661": "HK",
+    "ISO6391": "",
+    "ISO6392": "yue"
+  },
+  {
+    "name": "Chinese",
+    "country": "China",
+    "IETF": "zh-CN",
+    "ISO31661": "CN",
+    "ISO6391": "zh",
+    "ISO6392": ""
+  },
+  {
+    "name": "Chinese",
+    "country": "Hong Kong",
+    "IETF": "zh-HK",
+    "ISO31661": "HK",
+    "ISO6391": "zh",
+    "ISO6392": ""
+  },
+  {
+    "name": "Chinese",
+    "country": "Singapore",
+    "IETF": "zh-SG",
+    "ISO31661": "SG",
+    "ISO6391": "zh",
+    "ISO6392": ""
+  },
+  {
+    "name": "Chinese",
+    "country": "Taiwan, Province of China",
+    "IETF": "zh-TW",
+    "ISO31661": "TW",
+    "ISO6391": "zh",
+    "ISO6392": ""
+  },
+  {
+    "name": "Zulu",
+    "country": "South Africa",
+    "IETF": "zu-ZA",
+    "ISO31661": "ZA",
+    "ISO6391": "zu",
+    "ISO6392": ""
+  }
+]
